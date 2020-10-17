@@ -9,8 +9,7 @@ I proposed a data-processing architecutre to collect data in real time (streamin
 
 # Architecture 
 
-![Alt Text](https://bmchp-wellsense.healthtrioconnect.com/member/member_shell.cfm?xsesschk=9a75cc0bb1094602ac85fcf1af508f43)
-
+![DynamoDB Streams design patterns](https://ibb.co/pLdQTcN)
 
 
 
