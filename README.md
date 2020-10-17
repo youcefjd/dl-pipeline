@@ -2,7 +2,7 @@
 Sentiment analysis data pipeline to analyze tweets in real time using AWS, Spark and Deep Learning
 
 # Problem
-Social media is a reservoir of information. People converse, interact, exchange ideas, and more importantly, give their opinion about products, services, individuals, companies, etc. This data is an absolute goldmine if exploited properly. Knowing what people think about 'x' is the first step in ameliorating and enhancing 'x'. 
+Social media is a reservoir of information. People converse, interact, exchange ideas, and more importantly, give their opinions about products, services, individuals, companies, etc. This data is an absolute goldmine if exploited properly. Knowing what people think about 'x' is the first step in ameliorating and enhancing 'x'. 
 
 # Solution 
 I proposed a data-processing architecutre to collect data in real time (streaming), parse it in a non-relational database (Dynamo), process it via S3, Kinesis and Spark, run it through an NLP method, and output the results in a separate database (PostgreSQL). 
