@@ -9,6 +9,9 @@ I proposed a data-processing architecutre to collect data in real time (streamin
 
 # Architecture 
 
+![alt text](https://github.com/youcefjd/dl-pipeline/images/Screen Shot 2020-10-19 at 3.23.02 PM.png?raw=true)
+
+
 ### Tweepy 
 Because things change rather quickly and instantly in social media, collecting live data was a clear path to undertake
 ### Dynamo
