@@ -9,7 +9,7 @@ I proposed a data-processing architecutre to collect data in real time (streamin
 
 # Architecture 
 
-![alt text](https://github.com/youcefjd/dl-pipeline/images/img.png?raw=true)
+![alt text](https://github.com/youcefjd/dl-pipeline/blob/main/images/img.png)
 
 
 ### Tweepy 
